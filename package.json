@@ -9,7 +9,7 @@
     "aliexscrape": "^1.0.11",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "request-promise": "^4.2.5",
     "ws": "^7.3.0"
   },
